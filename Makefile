@@ -27,7 +27,7 @@ INCLUDE		=	-I. -I$(LIBFT_DIR) -I$(FT_PRINTF_DIR)
 
 
 CC		=	gcc
-GCCFLAG		= -fsanitize=leak -g -Wall -Wextra -Werror
+GCCFLAG		= -g -Wall -Wextra -Werror
 REMOVE		=	rm -f
 
 
